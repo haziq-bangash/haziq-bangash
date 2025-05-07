@@ -48,9 +48,6 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haziq-bangash&show_icons=true&locale=en" alt="haziq-bangash"/>
-</p>
-<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haziq-bangash&" alt="haziq-bangash"/>
 </p>
 
