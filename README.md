@@ -47,11 +47,6 @@
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 </p>
 
-
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 <h3 align="left">Profile views and Followers: </h3>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=haziq-bangash&style=circle&color=red"> </a>
 <a href="https://github.com/haziq-bangash?tab=followers">
