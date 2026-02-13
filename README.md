@@ -20,7 +20,7 @@
 - 🤖 Working with **LLMs, agentic systems, and LangChain** to ship production AI features.
 - 🚀 Full‑stack across **Next.js, Laravel, MERN**—whatever the product needs.
 - 🧗 xTeam Lead at **BXTrack Solutions** (2+ years), led eng teams and shipped SaaS + e‑commerce at scale.
-- 💼 Founded **LinkHR** (Tinder for jobs)—built, shipped, learned a ton.
+- 💼 Founded **LinkHR** (Tinder for jobs)—built, failed, learned a ton.
 - 🎨 I believe in **creating art through code**—clean UX, thoughtful architecture, products people love.
 
 ### 🤝 Let's collaborate
