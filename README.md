@@ -1,59 +1,61 @@
-<h1 align="center"> Hi👋, I'm Haziq Ali </h1>
-<h3 align="center"> A Full Stack Developer based in Doha, Qatar👨‍💻 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<br><br>
-
-- 🔭 I’m currently working on healthtech that gives **clinicians time back—less paperwork, more patient care**.
-
-- 🌱 I’m currently learning **web & app technologies**
-
-- 🤝 I’m looking to collaborate on **open source projects**
-
-- 💬 Ask me about **technical stuff**
-
-- 📫 You can reach me at **haziqali516@gmail.com**
-
-- ⚡ Fun fact: **Coding improves Problem-Solving Skill**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.behance.net/haziqali3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="haziq ali" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/haziq-ali-16bb791bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haziq ali" height="30" width="40" /></a>
-<a href="https://www.instagram.com/haziq_bangash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haziq ali" height="30" width="40" /></a>
-<a href="https://medium.com/@haziqali516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@haziq ali" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@haziqali5773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="haziq ali" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Haziq Ali</h1>
+<p align="center">
+  Full‑stack developer in Doha • healthtech at Rhazes AI • xTeam Lead @BXTrack<br/>
+  GenAI • Agentic AI • Next.js • Laravel • MERN • LangChain • Creating art through code
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/haziq-ali-16bb791bb/">LinkedIn</a> •
+  <a href="https://haziqbangash.vercel.app">Portfolio</a> •
+  <a href="https://medium.com/@haziqali516">Medium</a> •
+  <a href="https://www.behance.net/haziqali3t">Behance</a> •
+  <a href="mailto:haziqali516@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Profile views and Followers: </h3>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=haziq-bangash&style=circle&color=red"> </a>
-<a href="https://github.com/haziq-bangash?tab=followers">
-   <img src="https://img.shields.io/github/followers/haziq-bangash?label=Followers&style=social" alt="GitHub Badge">
-</a>
+<br />
 
-<!---
-haziq-bangash/haziq-bangash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->  
+### 👨‍💻 What I'm up to
+
+- 🏥 Building **clinical AI workflows** at Rhazes—scribe, coding, auditing tools that give clinicians time back.
+- 🤖 Working with **LLMs, agentic systems, and LangChain** to ship production AI features.
+- 🚀 Full‑stack across **Next.js, Laravel, MERN**—whatever the product needs.
+- 🧗 xTeam Lead at **BXTrack Solutions** (2+ years), led eng teams and shipped SaaS + e‑commerce at scale.
+- 💼 Founded **LinkHR** (Tinder for jobs)—built, shipped, learned a ton.
+- 🎨 I believe in **creating art through code**—clean UX, thoughtful architecture, products people love.
+
+### 🤝 Let's collaborate
+
+I'm open to working on:
+- **Healthtech / AI-powered products** (LLMs, RAG, agentic workflows)
+- **Open‑source projects** (devtools, UI kits, SaaS starters)
+- **Community learning** (workshops, knowledge-sharing sessions)
+
+### 💬 Ask me about
+
+Full‑stack architecture • Shipping MVPs fast • Leading small eng teams • LLMOps & AI engineering • Payment gateway integrations (PayPal, Stripe, Paddle) • Making complex systems feel simple
+
+### ⚡ Fun fact
+
+When I'm not coding, you'll find me **exploring the mountains**.
+
+---
+
+<h3 align="left">Tech I work with</h3>
+
+**Frontend:** React • Next.js • Tailwind CSS • HTML/CSS  
+**Backend:** Node.js • Laravel • Express • REST & GraphQL APIs  
+**AI/ML:** LangChain • LLMOps • Python • TensorFlow  
+**Databases:** MongoDB • MySQL • PostgreSQL  
+**Cloud & DevOps:** Azure • GCP • Git • Docker  
+**Payment:** PayPal • Stripe • Paddle
+
+---
+
+<p align="left">
+  <a href="https://github.com/haziq-bangash?tab=followers">
+    <img src="https://img.shields.io/github/followers/haziq-bangash?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=haziq-bangash">
+    <img src="https://komarev.com/ghpvc/?username=haziq-bangash&style=flat-square&color=blue" alt="Profile views">
+  </a>
+</p>
