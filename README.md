@@ -26,8 +26,7 @@
 ### 🤝 Let's collaborate
 
 I'm open to working on:
-- **Healthtech / AI-powered products** (LLMs, RAG, agentic workflows)
-- **Open‑source projects** (devtools, UI kits, SaaS starters)
+- I’m open to collaborating on projects that ship, tools that help developers, and anything that makes users say “nice.” (LLMs, RAG, agentic workflows)
 - **Community learning** (workshops, knowledge-sharing sessions)
 
 ### 💬 Ask me about
@@ -43,7 +42,7 @@ When I'm not coding, you'll find me **exploring the mountains**.
 <h3 align="left">Tech I work with</h3>
 
 **Frontend:** React • Next.js • Tailwind CSS • HTML/CSS  
-**Backend:** Node.js • Laravel • Express • REST & GraphQL APIs  
+**Backend:** Node.js • Laravel • Nest JS • REST & GraphQL APIs  
 **AI/ML:** LangChain • LLMOps • Python • TensorFlow  
 **Databases:** MongoDB • MySQL • PostgreSQL  
 **Cloud & DevOps:** Azure • GCP • Git • Docker  
