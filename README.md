@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br>
 
-- 🔭 I’m currently working on **building my own startup**
+- 🔭 I’m currently working on healthtech that gives **clinicians time back—less paperwork, more patient care**.
 
 - 🌱 I’m currently learning **web & app technologies**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **technical stuff**
 
-- 📫 You can reach me at **codewithhaziq@gmail.com**
+- 📫 You can reach me at **haziqali516@gmail.com**
 
 - ⚡ Fun fact: **Coding improves Problem-Solving Skill**
 
