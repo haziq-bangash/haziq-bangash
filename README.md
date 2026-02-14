@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/haziq-ali-16bb791bb/">LinkedIn</a> •
   <a href="https://haziqbangash.vercel.app">Portfolio</a> •
   <a href="https://medium.com/@haziqali516">Medium</a> •
-  <a href="[https://www.behance.net/haziqali3t](https://www.behance.net/haziqali3)">Behance</a> •
+  <a href="https://www.behance.net/haziqali3">Behance</a> •
   <a href="mailto:haziqali516@gmail.com">Email</a>
 </p>
 
