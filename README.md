@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Haziq Ali</h1>
 <p align="center">
-  Full‑stack developer in Doha • healthtech at Rhazes AI • xTeam Lead @BXTrack<br/>
+  Full‑stack developer in Düsseldorf • healthtech at Rhazes AI • xTeam Lead @BXTrack<br/>
   GenAI • Agentic AI • Next.js • Laravel • MERN • LangChain • Creating art through code
 </p>
 
