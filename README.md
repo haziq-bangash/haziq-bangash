@@ -17,9 +17,6 @@
 ### 👨‍💻 What I'm up to
 
 - 🏥 Leading engineering at **Rhazes AI** on a clinical documentation platform — scribe, coding and auditing tools that give clinicians time back.
-- 🤖 The hard part is **multi-agent**: retrieval across 500,000+ documents from sources a clinician will accept, with every answer anchored to a citation they can follow back.
-- 🩺 We automated **WHO ICD-11 coding with post-coordination**, alongside SNOMED — 200,000+ codes and effectively unlimited combinations, derived from live patient-doctor conversation.
-- ☁️ Ran the **move off Azure onto GCP** in parallel with all of that, without downtime.
 - 🧗 Before Rhazes: 2.5 years at **BXTrack Solutions**, finishing as Team Lead running delivery for a team shipping client web platforms.
 - 💼 Founded **LinkHR** (Tinder for jobs) — built it, it failed, learned a ton.
 - 🎨 I believe in **creating art through code** — clean UX, thoughtful architecture, products people love.
